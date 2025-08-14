@@ -1,6 +1,9 @@
 from typing import Self
 
-# Fill out each of the methods in Vector3D:
+"""
+Please implement each of the methods in Vector3D.
+There are comments describing each method, but you will need to write documentation.
+"""
 
 class Vector3D:
     def __init__(self, x: float, y: float, z: float):
