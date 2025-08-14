@@ -1,5 +1,7 @@
-# Use the debugger to find and fix the bug in triangular()
-# Write a test, and start the debugger from the test
+"""
+Use the debugger to find and fix the bug in triangular().
+Write a test, and start the debugger from the test.
+"""
 
 def triangular(n: int) -> int:
     """Returns the nth triangular number
