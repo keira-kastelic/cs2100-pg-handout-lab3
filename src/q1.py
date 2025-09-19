@@ -17,6 +17,6 @@ def triangular(n: int) -> int:
         The sum of all numbers between 1 and n, inclusive
     """
     result = 0
-    for i in range(n):
+    for i in range(n+1):
         result += i
     return result
